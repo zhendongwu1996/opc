@@ -1,0 +1,28 @@
+README.md
+  h_cb04209c07f01d 1
+idea/diffgame/找茬_关卡设计文档_v2.2.md
+  h_cb04209c07f01d 1-689
+idea/diffgame/找茬小游戏开发文档_260813102045.md
+  h_cb04209c07f01d 1-966
+idea/tiktok-audiogame/README.md
+  h_cb04209c07f01d 1-61
+idea/tiktok-audiogame/audio-control-spec-v0.1.md
+  h_cb04209c07f01d 1-183
+idea/tiktok-audiogame/detail-backlog.md
+  h_cb04209c07f01d 1-50
+idea/tiktok-audiogame/product-spec-v0.1.md
+  h_cb04209c07f01d 1-217
+idea/tiktok-audiogame/validation-plan-v0.1.md
+  h_cb04209c07f01d 1-111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e213426b0b0512d22a51acaa4a68f8ffccb23926",
+  "prompts": {},
+  "humans": {
+    "h_cb04209c07f01d": {
+      "author": "zhendong.wu <zhendong.wu@ly.com>"
+    }
+  }
+}
