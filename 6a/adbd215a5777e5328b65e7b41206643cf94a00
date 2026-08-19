@@ -1,0 +1,22 @@
+.obsidian/app.json
+  h_cb04209c07f01d 1
+.obsidian/appearance.json
+  h_cb04209c07f01d 1
+.obsidian/core-plugins.json
+  h_cb04209c07f01d 1-33
+.obsidian/workspace.json
+  h_cb04209c07f01d 1-188
+未命名.canvas
+  h_cb04209c07f01d 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "6aadbd215a5777e5328b65e7b41206643cf94a00",
+  "prompts": {},
+  "humans": {
+    "h_cb04209c07f01d": {
+      "author": "zhendong.wu <zhendong.wu@ly.com>"
+    }
+  }
+}
