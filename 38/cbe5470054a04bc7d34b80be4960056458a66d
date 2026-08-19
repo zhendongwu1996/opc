@@ -1,0 +1,27 @@
+idea/短视频点子.md
+  h_cb04209c07f01d 5
+  h_cb04209c07f01d 4
+.obsidian/workspace.json
+  s_be7b5d060ede33::t_70ea114a134f25 188,190-192
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "38cbe5470054a04bc7d34b80be4960056458a66d",
+  "prompts": {},
+  "humans": {
+    "h_cb04209c07f01d": {
+      "author": "zhendong.wu <zhendong.wu@ly.com>"
+    }
+  },
+  "sessions": {
+    "s_be7b5d060ede33": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb72a-4233-78e0-80f2-d118e3a11990",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "zhendong.wu <zhendong.wu@ly.com>"
+    }
+  }
+}
